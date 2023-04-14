@@ -6,5 +6,7 @@ public class Demo4 {
 		
 		System.out.println("Test");
 	}
-
+ public void add() {
+	 System.out.println(5+3);
+ }
 }
